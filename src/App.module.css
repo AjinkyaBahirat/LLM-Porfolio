@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+#loadcontainer {
+  justify-content: center;
+  align-items: center;
+}
+
+#particles canvas{
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
