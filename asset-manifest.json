@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/LLM-Porfolio/static/css/main.3d4937c4.css",
+    "main.js": "/LLM-Porfolio/static/js/main.c8126d5b.js",
+    "static/js/787.cda612ba.chunk.js": "/LLM-Porfolio/static/js/787.cda612ba.chunk.js",
+    "static/media/robot.png": "/LLM-Porfolio/static/media/robot.767473adee84b66f8a73.png",
+    "static/media/user1.png": "/LLM-Porfolio/static/media/user1.45a0af68515332b42be9.png",
+    "index.html": "/LLM-Porfolio/index.html",
+    "main.3d4937c4.css.map": "/LLM-Porfolio/static/css/main.3d4937c4.css.map",
+    "main.c8126d5b.js.map": "/LLM-Porfolio/static/js/main.c8126d5b.js.map",
+    "787.cda612ba.chunk.js.map": "/LLM-Porfolio/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d4937c4.css",
+    "static/js/main.c8126d5b.js"
+  ]
+}
