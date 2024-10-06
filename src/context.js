@@ -19,7 +19,7 @@ const AppProvider = ({ children }) => {
   const [messages, setMessages] = useState([
     {
       from: "ai",
-      text: "Hi there! I'm you AI assistant, I'm here to help you out with your questions. Ask me anything you want.",
+      text: "Hi there! I'm AI assistant of Ajinkya Bahirat, Please Feel Free to ask me about Ajinkya",
     },
   ]);
   const [processing, setProcessing] = useState(false);

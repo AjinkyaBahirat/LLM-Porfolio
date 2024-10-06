@@ -1,6 +1,6 @@
 import React from "react";
-import chatbot from "../../assets/robot.png";
-import user from "../../assets/user1.png";
+import chatbot from "../../assets/ai.png";
+import user from "../../assets/user.png";
 import styles from "./Body.module.css";
 import { useGlobalContext } from "../../context";
 

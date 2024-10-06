@@ -22,7 +22,7 @@ font-family: 'Ubuntu Mono', monospace;
 .container {
   margin: 0 auto;
   height: calc(100vh - 60px);
-  width: 100%;
+  width: 80%;
   max-width: 1100px;
   display: flex;
   flex-direction: column;
